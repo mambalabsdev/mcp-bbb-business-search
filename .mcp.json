@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-bbb-business-search": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-bbb-business-search"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
