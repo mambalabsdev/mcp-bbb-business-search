@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-bbb-business-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for BBB Business Search: BBB business listings with ratings, accreditation, and phones.",
   "type": "module",
   "bin": {
